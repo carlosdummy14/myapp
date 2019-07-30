@@ -1,3 +1,3 @@
 # myapp
 
-Deploy React app Test
+Deploy React app Test.
