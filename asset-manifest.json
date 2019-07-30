@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./myapp/static/css/main.2cce8147.chunk.css",
-    "main.js": "./myapp/static/js/main.02ee3f7c.chunk.js",
-    "main.js.map": "./myapp/static/js/main.02ee3f7c.chunk.js.map",
-    "runtime~main.js": "./myapp/static/js/runtime~main.17499090.js",
-    "runtime~main.js.map": "./myapp/static/js/runtime~main.17499090.js.map",
-    "static/js/2.b41502e9.chunk.js": "./myapp/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "./myapp/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "./myapp/index.html",
-    "precache-manifest.2e62096e7b5e36382671fce132352829.js": "./myapp/precache-manifest.2e62096e7b5e36382671fce132352829.js",
-    "service-worker.js": "./myapp/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "./myapp/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "./myapp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/carlosdummy14/myapp/static/css/main.2cce8147.chunk.css",
+    "main.js": "/carlosdummy14/myapp/static/js/main.e31b2d31.chunk.js",
+    "main.js.map": "/carlosdummy14/myapp/static/js/main.e31b2d31.chunk.js.map",
+    "runtime~main.js": "/carlosdummy14/myapp/static/js/runtime~main.a56d1259.js",
+    "runtime~main.js.map": "/carlosdummy14/myapp/static/js/runtime~main.a56d1259.js.map",
+    "static/js/2.b41502e9.chunk.js": "/carlosdummy14/myapp/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/carlosdummy14/myapp/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/carlosdummy14/myapp/index.html",
+    "precache-manifest.cf7fac8a802a3c20895fcf28ce282a62.js": "/carlosdummy14/myapp/precache-manifest.cf7fac8a802a3c20895fcf28ce282a62.js",
+    "service-worker.js": "/carlosdummy14/myapp/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/carlosdummy14/myapp/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/carlosdummy14/myapp/static/media/logo.5d5d9eef.svg"
   }
 }
